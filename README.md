@@ -1,2 +1,5 @@
 # hello-world
-practice
+
+Hi everyone!
+
+this is rohit and i'm trying out something new.
